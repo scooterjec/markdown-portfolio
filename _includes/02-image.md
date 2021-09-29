@@ -1,1 +1,1 @@
-![JEC pocoyized](https://avatars.githubusercontent.com/u/7203971)
+![JEC pocoyized](images/avatar.png)
